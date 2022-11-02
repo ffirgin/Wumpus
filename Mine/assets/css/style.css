@@ -1,0 +1,32 @@
+*{
+    color: black;
+}
+
+header {
+    font-family: 'Times New Roman';
+    display: block;
+    position: fixed;
+}
+
+body {
+    background-color: #364652;
+}
+
+main {
+    background-color: #bfb1c1;
+}
+
+li{
+    display: inline;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #f6e27f;
+    position: absolute;
+    margin-bottom: auto;
+}
+
+.text-center {
+    text-align: center;
+}
